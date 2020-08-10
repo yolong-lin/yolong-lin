@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently studying at a college in Taiwan. 
+Coding every day, but don't really like coding...
+
+- 🔭 Familiar language: Python, Javascript, Java
+- 🌱 Currently interested in database, like MySQL and PostgreSQL
+
 <!--
 **yolong-lin/yolong-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
