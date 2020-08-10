@@ -15,7 +15,7 @@ Side project in my free time:
   - Type `臺中市 霧峰區` to get weather predict per 3 hours from https://www.cwb.gov.tw/
   
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=yolong-lin&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=yolong-lin&count_private=true&show_icons=true" />
 <!--
 **yolong-lin/yolong-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
