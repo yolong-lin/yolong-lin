@@ -6,6 +6,13 @@ Coding every day, but don't really like coding...
 - 🔭 Familiar language: Python, Javascript, Java
 - 🌱 Currently interested in database, like MySQL and PostgreSQL
 
+---
+Side project in my free time:
+- wootalk-clone: https://web-for-chat.herokuapp.com/
+- line-bot: https://lin.ee/2qlTlDX
+  - Type `新聞` to get random news from https://news.pts.org.tw/
+  - Type `臺中市` to get 36 hours weather predict from https://www.cwb.gov.tw/
+  - Type `臺中市 霧峰區` to get weather predict per 3 hours from https://www.cwb.gov.tw/
 <!--
 **yolong-lin/yolong-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
