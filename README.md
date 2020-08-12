@@ -7,7 +7,7 @@ Coding every day, but don't really like coding...
 - 🌱 Currently interested in database, like MySQL and PostgreSQL
 
 ---
-Side project in my free time:
+Projects that can't find in github:
 - wootalk-clone: https://web-for-chat.herokuapp.com/
 - line-bot: https://lin.ee/2qlTlDX
   - Type `新聞` to get random news from https://news.pts.org.tw/
