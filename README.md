@@ -3,8 +3,8 @@
 I'm currently studying at a college in Taiwan. 
 Coding every day, but don't really like coding...
 
-- 🔭 Familiar language: Python, Javascript, Java
-- 🌱 Currently interested in database, like MySQL and PostgreSQL
+- 🔭 Familiar language: Python, Javascript
+- 🌱 Familiar vcs: git
 
 ---
 Projects that can't find in github:
