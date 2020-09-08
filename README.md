@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm currently studying at a college in Taiwan. 
-Coding every day, but don't really like coding...
 
 - 🔭 Familiar language: Python, Javascript
 - 🌱 Familiar vcs: git
